@@ -2,13 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="153acde1-9503-4f5b-838f-69b5345c6534" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/assets/gerbilSanta.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/assets/small_lollipop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/assets/star.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/phaser.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/spaceGerbil.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/space-gerbil.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio_01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio_02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio_03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio_04.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio_05.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio_06.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio_07.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio_08.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio_09.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio_10.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/portfolio/chat.png" afterPath="$PROJECT_DIR$/assets/img/portfolio/chat.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/portfolio/github.png" afterPath="$PROJECT_DIR$/assets/img/portfolio/github.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/portfolio/lendit.png" afterPath="$PROJECT_DIR$/assets/img/portfolio/lendit.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/style.css" afterPath="$PROJECT_DIR$/assets/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/space-gerbil.html" afterPath="$PROJECT_DIR$/space-gerbil.html" />
     </list>
     <ignored path="portfolioBasic.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,11 +39,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.7058823">
-              <caret line="201" column="127" selection-start-line="201" selection-start-column="12" selection-end-line="201" selection-end-column="127" />
+            <state vertical-scroll-proportion="0.42418033">
+              <caret line="70" column="330" selection-start-line="70" selection-start-column="330" selection-end-line="70" selection-end-column="330" />
               <folding />
             </state>
           </provider>
@@ -49,21 +59,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="space-gerbil.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="space-gerbil.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/space-gerbil.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.27675277">
-              <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="spaceGerbil.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/js/spaceGerbil.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="62" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="62" />
+            <state vertical-scroll-proportion="-6.25">
+              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -72,18 +72,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.4705882">
-              <caret line="5" column="26" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ionicons.min.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/ionicons.min.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.88235295">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-9.215686">
+              <caret line="392" column="27" selection-start-line="392" selection-start-column="27" selection-end-line="392" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -104,10 +94,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/assets/css/style.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/js/spaceGerbil.js" />
         <option value="$PROJECT_DIR$/space-gerbil.html" />
+        <option value="$PROJECT_DIR$/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -265,7 +255,13 @@
       <option name="project" value="LOCAL" />
       <updated>1453377006949</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adding phaser game">
+      <created>1453378337162</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1453378337162</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -307,7 +303,8 @@
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
     <MESSAGE value="Content update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Content update" />
+    <MESSAGE value="Adding phaser game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding phaser game" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -353,14 +350,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.4705882">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/ionicons.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.88235295">
@@ -373,14 +362,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.5">
           <caret line="12" column="30" selection-start-line="0" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.7058823">
-          <caret line="201" column="127" selection-start-line="201" selection-start-column="12" selection-end-line="201" selection-end-column="127" />
           <folding />
         </state>
       </provider>
@@ -403,8 +384,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/space-gerbil.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27675277">
-          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+        <state vertical-scroll-proportion="-6.25">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.215686">
+          <caret line="392" column="27" selection-start-line="392" selection-start-column="27" selection-end-line="392" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42418033">
+          <caret line="70" column="330" selection-start-line="70" selection-start-column="330" selection-end-line="70" selection-end-column="330" />
           <folding />
         </state>
       </provider>

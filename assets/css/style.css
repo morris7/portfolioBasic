@@ -384,3 +384,11 @@ input {
 span.text-shadow-intense{
 	text-shadow: 2px 2px #777;
 }
+
+div.containerLaptop{
+	margin-bottom:80px;
+}
+
+.recentitems{
+	background-color: #fff;
+}
