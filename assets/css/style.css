@@ -152,7 +152,22 @@ input {
 	letter-spacing: 1px;
 	text-transform: uppercase;
 	padding: 14px 28px 13px 28px;
-	}
+	outline: none;
+}
+
+.btn-conf:focus {
+	color: #fff;
+}
+
+.btn-conf:hover {
+	text-shadow: none;
+}
+
+.btn-conf:active,
+.btn-conf:hover,
+.btn-conf:focus  {
+	outline: none;
+}
 
 .btn-clear {
 	background: transparent;
@@ -391,4 +406,9 @@ div.containerLaptop{
 
 .recentitems{
 	background-color: #fff;
+}
+
+.londonContainer {
+	background-color: rgba(0, 0, 0, 0.2);
+	padding-bottom: 28px;
 }
